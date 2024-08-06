@@ -29,12 +29,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0556-next-greater-element-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Greedy
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Sorting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
