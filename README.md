@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0053-maximum-subarray) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2727-number-of-senior-citizens](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2727-number-of-senior-citizens) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0273-integer-to-english-words) |
 | [0556-next-greater-element-iii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0556-next-greater-element-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2727-number-of-senior-citizens](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
