@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1013-fibonacci-number) |
 ## Math
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0344-reverse-string) |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1013-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
