@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0149-max-points-on-a-line](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0149-max-points-on-a-line) |
+| [0870-magic-squares-in-grid](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0273-integer-to-english-words](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0273-integer-to-english-words) |
 | [0556-next-greater-element-iii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0556-next-greater-element-iii) |
+| [0870-magic-squares-in-grid](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0149-max-points-on-a-line) |
+| [0870-magic-squares-in-grid](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
 |  |
