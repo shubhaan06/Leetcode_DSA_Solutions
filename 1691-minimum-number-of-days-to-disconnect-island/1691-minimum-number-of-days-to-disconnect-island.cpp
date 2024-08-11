@@ -1,66 +1,71 @@
 class Solution {
 public:
-    int dir[4][2]={{-1,0},{0,1},{1,0},{0,-1}};
-    void solve(int i,int j,vector<vector<int>> &grid,vector<vector<int>> &vis)
-    {
-        int n=grid.size(),m=grid[0].size();
-        vis[i][j]=0; //mark it as visited;
-
-        for(int k=0;k<4;k++)
-        {
-            int x=i+dir[k][0];
-            int y=j+dir[k][1];
-
-            if(x<0 || y<0 || x>=n || y>=m)
-                continue;
-
-            if(vis[x][y])
-            {
-                solve(x,y,grid,vis);
-            }
-        }
-
-    }
-    int numIslands(vector<vector<int>>& grid) {
-        int n=grid.size(),m=grid[0].size();
-        int ans=0;
-        vector<vector<int>> vis=grid;
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                if(vis[i][j]) //starting point
-                {
-                    solve(i,j,grid,vis);
-                    ans++;
-                }
-            }
-        }
-        return ans;
-    }
-
     int minDays(vector<vector<int>>& grid) {
-        int n=grid.size(),m=grid[0].size();
-        int ans = numIslands(grid);
+        if (countComponents(grid) != 1) return 0;  // Already disconnected
 
-        if(ans!=1)
-        return 0;
+        int n = grid.size();
+        int m = grid[0].size();
 
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<m;j++)
-            {
-                if(grid[i][j]) //starting point
-                {
-                    grid[i][j]=0;
-                    int cnt = numIslands(grid);
-                    if(cnt!=1)
-                    return 1;
-                    grid[i][j]=1;
+        // Check by removing one land cell
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < m; ++j) {
+                if (grid[i][j] == 1) {
+                    grid[i][j] = 0;
+                    if (countComponents(grid) != 1) return 1;
+                    grid[i][j] = 1;
                 }
             }
         }
 
+        // If removing one cell doesn't disconnect, two cells will
         return 2;
+    }
+
+private:
+    // Helper function to count the number of connected components of land
+    int countComponents(vector<vector<int>>& grid) {
+        int n = grid.size();
+        int m = grid[0].size();
+        vector<vector<int>> visited(n, vector<int>(m, 0));
+        int components = 0;
+
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < m; ++j) {
+                if (grid[i][j] == 1 && !visited[i][j]) {
+                    ++components;
+                    bfs(grid, visited, i, j);
+                }
+            }
+        }
+
+        return components;
+    }
+
+    // Helper function to perform BFS to mark all land cells in a component
+    void bfs(vector<vector<int>>& grid, vector<vector<int>>& visited, int x, int y) {
+        int n = grid.size();
+        int m = grid[0].size();
+        vector<int> dx = {1, -1, 0, 0};
+        vector<int> dy = {0, 0, 1, -1};
+
+        queue<pair<int, int>> q;
+        q.push({x, y});
+        visited[x][y] = 1;
+
+        while (!q.empty()) {
+            int cx = q.front().first;
+            int cy = q.front().second;
+            q.pop();
+
+            for (int k = 0; k < 4; ++k) {
+                int nx = cx + dx[k];
+                int ny = cy + dy[k];
+
+                if (nx >= 0 && nx < n && ny >= 0 && ny < m && grid[nx][ny] == 1 && !visited[nx][ny]) {
+                    visited[nx][ny] = 1;
+                    q.push({nx, ny});
+                }
+            }
+        }
     }
 };
