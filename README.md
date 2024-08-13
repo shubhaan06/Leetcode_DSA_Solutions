@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0149-max-points-on-a-line](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0870-magic-squares-in-grid](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
