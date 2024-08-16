@@ -1,17 +1,19 @@
 class Solution {
 public:
     int maxDistance(vector<vector<int>>& arrays) {
-        int smallest = arrays[0][0];
-        int biggest = arrays[0].back();
-        int max_distance = 0;
+        int minVal = arrays[0][0];
+        int maxVal = arrays[0].back();
+        int maxDistance = 0;
 
-        for (int i = 1; i < arrays.size(); ++i) {
-            max_distance = max(max_distance, abs(arrays[i].back() - smallest));
-            max_distance = max(max_distance, abs(biggest - arrays[i][0]));
-            smallest = min(smallest, arrays[i][0]);
-            biggest = max(biggest, arrays[i].back());
+        for(int i = 1; i < arrays.size(); i++) {
+            // Calculate distance using current min and max with other arrays
+            maxDistance = max(maxDistance, max(abs(arrays[i].back() - minVal), abs(maxVal - arrays[i][0])));
+
+            // Update the global min and max values
+            minVal = min(minVal, arrays[i][0]);
+            maxVal = max(maxVal, arrays[i].back());
         }
 
-        return max_distance;
+        return maxDistance;
     }
 };
