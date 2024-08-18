@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0053-maximum-subarray) |
+| [0264-ugly-number-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1013-fibonacci-number) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Math
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0149-max-points-on-a-line) |
+| [0264-ugly-number-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0273-integer-to-english-words) |
 | [0556-next-greater-element-iii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0870-magic-squares-in-grid](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0149-max-points-on-a-line) |
+| [0264-ugly-number-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
