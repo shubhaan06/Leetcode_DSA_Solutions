@@ -9,24 +9,32 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  **/
-
 class Solution {
 public:
-    vector<int> postorderTraversal(TreeNode* root) 
-    {
+    vector<int> postorderTraversal(TreeNode* root) {
         vector<int> ans;
-        postorderHelper(root, ans);
-        return ans;
-    }
+        if (root == nullptr) return ans;
 
-private:
-    void postorderHelper(TreeNode* node, vector<int>& ans) 
-    {
-        if (node != nullptr) 
-        {
-            postorderHelper(node->left, ans);   // Traverse left subtree
-            postorderHelper(node->right, ans);  // Traverse right subtree
-            ans.push_back(node->val);           // Visit the root node
+        stack<TreeNode*> st;
+        TreeNode* lastVisited = nullptr;
+        TreeNode* curr = root;
+
+        while (!st.empty() || curr != nullptr) {
+            if (curr != nullptr) {
+                st.push(curr);
+                curr = curr->left;
+            } else {
+                TreeNode* node = st.top();
+                if (node->right != nullptr && lastVisited != node->right) {
+                    curr = node->right;
+                } else {
+                    ans.push_back(node->val);
+                    lastVisited = node;
+                    st.pop();
+                }
+            }
         }
+
+        return ans;
     }
 };
