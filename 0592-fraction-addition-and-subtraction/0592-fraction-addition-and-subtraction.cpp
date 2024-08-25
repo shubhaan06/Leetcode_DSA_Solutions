@@ -1,47 +1,37 @@
 class Solution {
 public:
-string fractionAddition(std::string expression) {
-        std::istringstream iss(preprocessExpression(expression));
-        int numerator = 0, denominator = 1;
-        char op;
-        while (iss >> op) {
-            int num, denom;
-            char slash;
-            iss >> num >> slash >> denom;
-
-            if (op == '-') num = -num;
-
-            // Calculate LCM of denominators
-            int lcm = std::lcm(denominator, denom);
-
-            // Adjust numerators
-            numerator = numerator * (lcm / denominator) + num * (lcm / denom);
-            denominator = lcm;
-
-            // Simplify the fraction
-            int gcd = std::gcd(abs(numerator), denominator);
-            numerator /= gcd;
-            denominator /= gcd;
-        }
-
-        return std::to_string(numerator) + "/" + std::to_string(denominator);
-    }
-
-private:
-    std::string preprocessExpression(const std::string& expression) {
-        std::string exp = expression;
-        if (exp[0] != '+' && exp[0] != '-') {
-            exp = "+" + exp;
-        }
-        std::string result;
-        for (size_t i = 0; i < exp.size(); ++i) {
-            if (exp[i] == '+' || exp[i] == '-') {
-                result += ' ';
-                result += exp[i];
-            } else {
-                result += exp[i];
+    string fractionAddition(string expression) {
+        int num = 0;
+        int den = 1;
+        int i = 0;
+        int n = expression.size();
+        while (i < n) {
+            int currentnum = 0;
+            int currentden = 0;
+            bool negative = (expression[i] == '-');
+            while (i < n && (expression[i] == '-' || expression[i] == '+')) {
+                i++;
             }
+            while (i < n && isdigit(expression[i])) {
+                int a = expression[i] - '0';
+                currentnum = (currentnum * 10) + a;
+                i++;
+            }
+            i++;
+            while (i < n && isdigit(expression[i])) {
+                int a = expression[i] - '0';
+                currentden = (currentden * 10) + a;
+                i++;
+            }
+            if (negative == true) {
+                currentnum *= -1;
+            }
+            num = num * currentden + den * currentnum;
+            den = den * currentden;
         }
-        return result;
+        int Gcd = abs(__gcd(num, den));
+        num /= Gcd;
+        den /= Gcd;
+        return to_string(num) + "/" + to_string(den);
     }
 };
