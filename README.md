@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Geometry
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
