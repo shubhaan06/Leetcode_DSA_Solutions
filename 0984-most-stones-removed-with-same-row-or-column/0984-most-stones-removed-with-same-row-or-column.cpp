@@ -1,34 +1,23 @@
 class Solution {
-public:
-    void dfs(int &n, int idx, vector<bool>&visited, vector<vector<int>>&stones)
-    {
-        visited[idx] = true;
-        for(int i = 0; i<n; i++)
-        {
-            if(!visited[i])
-            {
-                if(stones[idx][0] == stones[i][0])
-                    dfs(n, i, visited, stones);
+public:    
 
-                if(stones[idx][1] == stones[i][1])
-                    dfs(n, i, visited, stones);
-            }
-        }
+    int removeStones(vector<vector<int>>& stones) {
+        for (int i = 0; i < stones.size(); ++i)
+            uni(stones[i][0], ~stones[i][1]);
+        return stones.size() - islands;
     }
-    int removeStones(vector<vector<int>>& stones) 
-    {
-        int n = stones.size();
-        int group = 0;
 
-        vector<bool>visited(n);
-        for(int i = 0; i<n; i++)
-        {
-            if(!visited[i])
-            {
-                dfs(n, i, visited, stones);
-                group += 1;
-            }
-        }
-        return n - group;
+    unordered_map<int, int> f;
+    int islands = 0;
+
+    int find(int x) {
+        if (!f.count(x)) f[x] = x, islands++;
+        if (x != f[x]) f[x] = find(f[x]);
+        return f[x];
+    }
+
+    void uni(int x, int y) {
+        x = find(x), y = find(y);
+        if (x != y) f[x] = y, islands--;
     }
 };
