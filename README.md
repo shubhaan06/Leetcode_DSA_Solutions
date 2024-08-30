@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Binary Tree
 |  |
 | ------- |
@@ -247,8 +248,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
