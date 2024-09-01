@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -137,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0921-spiral-matrix-iii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Depth-First Search
 |  |
 | ------- |
