@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1240-stone-game-ii) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2645-pass-the-pillow) |
 ## Two Pointers
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2645-pass-the-pillow) |
 ## Depth-First Search
 |  |
