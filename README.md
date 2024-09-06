@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -278,5 +279,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
