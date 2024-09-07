@@ -1,23 +1,21 @@
 class Solution {
 public:
     bool isSubPath(ListNode* head, TreeNode* root) {
-        if (!root) return false;
-        return checkPath(root, head);
+        return dfs(head, head, root);
     }
-
-private:
-    bool checkPath(TreeNode* node, ListNode* head) {
-        if (!node) return false;
-        if (dfs(node, head)) return true;  // If a matching path is found
-        // Recursively check left and right subtrees
-        return checkPath(node->left, head) || checkPath(node->right, head);
-    }
-
-    bool dfs(TreeNode* node, ListNode* head) {
-        if (!head) return true;  // All nodes in the list matched
-        if (!node)
-            return false;  // Reached end of tree without matching all nodes
-        if (node->val != head->val) return false;  // Value mismatch
-        return dfs(node->left, head->next) || dfs(node->right, head->next);
+    
+    bool dfs(ListNode* head, ListNode* cur, TreeNode* root) {
+        if (cur == nullptr) return true;  // Successfully matched the list
+        if (root == nullptr) return false; // Reached the end of the tree without matching
+        
+        if (cur->val == root->val) {
+            cur = cur->next;  // Move to the next list node if value matches
+        } else if (head->val == root->val) {
+            head = head->next; // Start new matching attempt if the value matches head of list
+        } else {
+            cur = head;  // Reset the matching pointer
+        }
+        
+        return dfs(head, cur, root->left) || dfs(head, cur, root->right); // Recursively check left and right subtrees
     }
 };
