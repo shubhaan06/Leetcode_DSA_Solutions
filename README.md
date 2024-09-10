@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2155-find-missing-observations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2645-pass-the-pillow) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -290,5 +291,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
