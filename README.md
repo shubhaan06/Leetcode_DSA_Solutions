@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0344-reverse-string) |
@@ -337,4 +338,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
