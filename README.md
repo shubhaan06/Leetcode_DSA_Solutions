@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2155-find-missing-observations](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2411-spiral-matrix-iv) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0890-lemonade-change) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1137-height-checker) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1137-height-checker) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Graph
 |  |
 | ------- |
