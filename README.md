@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1720-crawler-log-folder](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2035-count-sub-islands) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1720-crawler-log-folder](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1720-crawler-log-folder](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1720-crawler-log-folder) |
 ## Geometry
 |  |
 | ------- |
