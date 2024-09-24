@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1720-crawler-log-folder](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1720-crawler-log-folder) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1137-height-checker) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2502-sort-the-people) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Heap (Priority Queue)
 |  |
