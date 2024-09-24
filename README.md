@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0682-baseball-game) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
