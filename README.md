@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1137-height-checker](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1137-height-checker) |
 | [1240-stone-game-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1256-rank-transform-of-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1137-height-checker) |
+| [1256-rank-transform-of-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
