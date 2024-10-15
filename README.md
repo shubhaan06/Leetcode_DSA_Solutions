@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2594-count-pairs-of-similar-strings) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0890-lemonade-change) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Binary Tree
 |  |
