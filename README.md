@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1197-parsing-a-boolean-expression](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1013-fibonacci-number) |
+| [1197-parsing-a-boolean-expression](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0682-baseball-game) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1197-parsing-a-boolean-expression](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1720-crawler-log-folder](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1720-crawler-log-folder) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Geometry
