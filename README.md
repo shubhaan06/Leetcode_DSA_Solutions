@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1720-crawler-log-folder) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1240-stone-game-ii) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2586-longest-square-streak-in-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0890-lemonade-change) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Heap (Priority Queue)
