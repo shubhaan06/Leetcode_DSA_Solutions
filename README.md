@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1923-sentence-similarity-iii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0890-lemonade-change) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Heap (Priority Queue)
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
@@ -496,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Enumeration
 |  |
 | ------- |
