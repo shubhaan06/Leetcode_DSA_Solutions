@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1720-crawler-log-folder) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
