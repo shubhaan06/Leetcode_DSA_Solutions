@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0149-max-points-on-a-line](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0556-next-greater-element-iii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0264-ugly-number-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0268-missing-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0731-my-calendar-ii) |
@@ -404,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
