@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0906-walking-robot-simulation) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0948-sort-an-array) |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shubhaan06/Leetcode_DSA_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Enumeration
